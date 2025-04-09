@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.sub1{
+    color: skyblue;
+    font-weight: bold;
+}
+
+.sub2{
+    color: orange;
+    font-weight: bold;
+}
+
+.sub3{
+    color: purple;
+    font-weight: bold;
+}
+
+.sub4{
+    color: green;
+    font-weight: bold;
+}
+
+.sub5{
+    color: red;
+    Font-weight: bold;
+}
+
+.swa{
+    color: red;
+    font-weight: bold;
+}
